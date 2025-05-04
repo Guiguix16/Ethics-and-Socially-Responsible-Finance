@@ -11,6 +11,7 @@ La partie 4 “Analyse extra‑financière” est livrée séparément en PDF.
 <p align="center">
   <img src="Screen.png" alt="Backtest Result" width="50%">
 </p>
+
 ## Adéquation au cahier des charges
 
 | Exigence | Réalisé dans ce notebook |
